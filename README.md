@@ -1,6 +1,6 @@
 # HCV_Classifier
 
-Using AI to classify healthy people among Hepatitis C patients.
+Using supervised learning techniques in AI to classify individuals as healthy or infected with Hepatitis C based on labeled data.
 
 This repository contains a machine learning classification task applied to the HCV dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/HCV+data).
 
